@@ -1,10 +1,9 @@
 # MiRepositorio
 **Link de un proyecto que subí a GitHub Pages:**  
-https://jsebasm21.github.io/pagina1/
+[https://jsebasm21.github.io/pagina1/](https://jsebasm21.github.io/pagina2/)
 
 **Link del repositorio:**  
 https://github.com/JSebasM21/MiRepositorio.git
-
 ---
 
 ## Pasos para crear un repositorio en GitHub
