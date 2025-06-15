@@ -1,8 +1,15 @@
 # MiRepositorio
-#**Link de un proyecto que subi a gt:    https://jsebasm21.github.io/paguina1/**
-#**link del repositorio: https://github.com/JSebasM21/MiRepositorio.git**
-#**Pasos para crear un repositorio en Git:
-#Primer paso iniciamos sesión en git:
+**Link de un proyecto que subí a GitHub Pages:**  
+https://jsebasm21.github.io/pagina1/
+
+**Link del repositorio:**  
+https://github.com/JSebasM21/MiRepositorio.git
+
+---
+
+## Pasos para crear un repositorio en GitHub
+
+### 1. Iniciar sesión en GitHub:
 ![image](https://github.com/user-attachments/assets/4f4625b7-d73a-4db2-988b-c1b95050c4fc)
 
  
